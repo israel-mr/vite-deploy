@@ -1,4 +1,5 @@
 {
+  
   "name": "deploy-example",
   "private": true,
   "homepage": "https://israel-mr.github.io/vite-deploy",
@@ -27,4 +28,5 @@
     "globals": "^16.0.0",
     "vite": "^6.3.5"
   }
+
 }
